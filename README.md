@@ -1,4 +1,5 @@
-## Dito Baskoro <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-6ce58.appspot.com/o/assets%2Femoji.png?alt=media&token=0785aa16-5b3f-4863-9bc8-b728a5c34885" alt="Emoji" height="30px">
+## Dito Baskoro 
+<!-- <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-6ce58.appspot.com/o/assets%2Femoji.png?alt=media&token=0785aa16-5b3f-4863-9bc8-b728a5c34885" alt="Emoji" height="30px"> -->
 ### Software Engineer
 ### Jakarta, ID
 
